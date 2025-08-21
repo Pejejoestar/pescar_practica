@@ -1,0 +1,12 @@
+[{
+    "nombre": "Rocio",
+    "Edad": 20,
+    "Pais": "ARG",
+    "Hermanos": ["Pepito", "Saul", "Gomez"]
+},
+{
+    "nombre": "Gabriel",
+    "Edad": 20,
+    "Pais": "ARG",
+    "Hermanos": ["Leo", "Diego", "Marcelo"]
+}]
